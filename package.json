@@ -25,7 +25,10 @@
   "homepage": "https://github.com/forsigner/forsigner#readme",
   "dependencies": {
     "bluebird": "^3.0.5",
+    "color-thief": "^2.2.2",
     "commander": "^2.9.0",
+    "lwip": "0.0.9",
+    "onecolor": "^3.0.4",
     "userhome": "^1.0.0"
   }
 }
